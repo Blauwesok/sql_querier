@@ -1,4 +1,4 @@
-image: workspace-mysql:latest
+image: gitpod/workspace-mysql:latest
 tasks:
   - name: Startup
     command: sh ./scripts/startup.sh
