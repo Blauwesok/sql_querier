@@ -1,3 +1,3 @@
-# SQL Querier
+# Databases Omgeving (Node.js versie)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rijkvp/sql_querier)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect.rijkvp.nl)
