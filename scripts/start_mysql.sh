@@ -13,3 +13,7 @@ then
 
     rm /var/run/mysqld/gitpod-init.lock
 fi
+
+# Wait for MySQL to start
+gp await-port 3306
+gp await-port 33060

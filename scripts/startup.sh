@@ -15,7 +15,7 @@ echo "Starting MySQL server.."
 echo "Importing/resetting MySQL databases.."
 ./scripts/reset_dbs.sh
 
-cd ./querier
+cd ./mysql-querier
 echo "Downloading Node.js packages.."
 npm ci
 echo "Starting Querier.."

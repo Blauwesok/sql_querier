@@ -1,0 +1,4 @@
+[submodule "mysql-querier"]
+	path = mysql-querier
+	url = https://github.com/rijkvp/mysql-querier.git
+	branch = node
