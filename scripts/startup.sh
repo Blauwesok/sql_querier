@@ -13,7 +13,7 @@ Door: Rijk van Putten
 echo "Starting MySQL server.."               
 ./scripts/start_mysql.sh
 echo "Importing/resetting MySQL databases.."
-./scripts/reset_dbs.sh
+./scripts/restore_dbs.sh
 
 cd ./mysql-querier
 echo "Downloading Node.js packages.."
